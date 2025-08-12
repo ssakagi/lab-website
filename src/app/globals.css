@@ -3,13 +3,50 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  --label-primary: #252525;
+  --label-secondary: #555555;
+  --label-contrast: #ffffff;
+
+  --surface-primary: #ffffff;
+  --surface-secondary: #fafafa;
+  --surface-contrast: linear-gradient(to right, #252525, #002764);
+
+  --nav-label-primary-default: #60717a;
+  --nav-label-primary-active: #002764;
+
+  --separator-primary: linear-gradient(to right, #393f6e4d, #4270884d);
+  --separator-secondary: linear-gradient(to right, #393f6e26, #42708826);
+
+  --when-label-primary: #60717a;
+
+  --outline-primary: #cbcbcb;
 }
 
+/* 
+  (どこかで)定義されたcss変数(カスタムプロパティ)をtailwindのテーマ変数(デザイントークン)として登録(@themeディレクティブのinlineオプションは参照を指示して動的な変更に対応)
+  名前空間を見て適切なユーティリティクラスが自動生成される(例: --color-* -> bg-*, text-*, ...)
+*/
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  --color-label-primary: var(--label-primary);
+  --color-label-secondary: var(--label-secondary);
+  --color-label-contrast: var(--label-contrast);
+
+  --color-surface-primary: var(--surface-primary);
+  --color-surface-secondary: var(--surface-secondary);
+
+  --color-nav-label-primary-default: var(--nav-label-primary-default);
+  --color-nav-label-primary-active: var(--nav-label-primary-active);
+
+  --color-when-label-primary: var(--when-label-primary);
+
+  --color-outline-primary: var(--outline-primary);
+
+  --font-sans: var(--font-noto-sans-jp);
+  --font-serif: var(--font-noto-serif-jp);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,4 +60,99 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@utility bg-surface-contrast {
+  background-image: var(
+    --surface-contrast
+  ); /* fromとtoをそれぞれ変数にして@themeでもいいけど... */
+}
+
+@utility border-separator-primary {
+  border-image: var(--separator-primary);
+  border-image-slice: 1;
+}
+
+@utility border-separator-secondary {
+  border-image: var(--separator-secondary);
+  border-image-slice: 1;
+}
+
+/* ここで定義しているデザイントークン(と呼んでいるもの)はtailwindが想定するそれとは少しお作法(尺度)が異なっていることに注意 */
+
+@utility body-md {
+  font-family: var(--font-noto-sans-jp);
+  font-weight: var(--font-weight-normal);
+  font-size: 16px;
+  line-height: 32px;
+}
+
+@utility body-sm {
+  font-family: var(--font-noto-sans-jp);
+  font-weight: var(--font-weight-normal);
+  font-size: 14px;
+  line-height: 16px;
+}
+
+@utility body-xs {
+  font-family: var(--font-noto-sans-jp);
+  font-weight: var(--font-weight-normal);
+  font-size: 12px;
+  line-height: 14px;
+}
+
+@utility body-lg {
+  font-family: var(--font-noto-sans-jp);
+  font-weight: var(--font-weight-normal);
+  font-size: 20px;
+  line-height: 24px;
+}
+
+@utility heading-md {
+  font-family: var(--font-noto-sans-jp);
+  font-weight: var(--font-weight-medium);
+  font-size: 24px;
+  line-height: 24px;
+}
+
+@utility heading-lg {
+  font-family: var(--font-noto-serif-jp);
+  font-weight: var(--font-weight-semibold);
+  font-size: 32px;
+  line-height: 38px;
+}
+
+@utility heading-xl {
+  font-family: var(--font-noto-serif-jp);
+  font-weight: var(--font-weight-bold);
+  font-size: 40px;
+  line-height: 48px;
+}
+
+@utility nav-label-default {
+  font-family: var(--font-noto-sans-jp);
+  font-weight: var(--font-weight-bold);
+  font-size: 18px;
+  line-height: 24px;
+}
+
+@utility nav-label-active {
+  font-family: var(--font-noto-sans-jp);
+  font-weight: var(--font-weight-black);
+  font-size: 18px;
+  line-height: 24px;
+}
+
+@utility when-label-md {
+  font-family: Helvetica, sans-serif;
+  font-weight: var(--font-weight-light);
+  font-size: 24px;
+  line-height: 28px;
+}
+
+@utility when-label-sm {
+  font-family: Helvetica, sans-serif;
+  font-weight: var(--font-weight-light);
+  font-size: 14px;
+  line-height: 16px;
 }
