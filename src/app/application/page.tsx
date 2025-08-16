@@ -3,11 +3,12 @@ import PageHeader from "@/components/page-header";
 import SiteHeader from "@/components/site-header";
 
 export default function Application() {
+  const pageName = "院生募集";
   return (
     <>
-      <SiteHeader pageName="院生募集" />
-      <Breadcrumb pageName="院生募集" />
-      <PageHeader pageName="院生募集" />
+      <SiteHeader pageName={pageName} />
+      <Breadcrumb pageName={pageName} />
+      <PageHeader pageName={pageName} />
       <ContentArea />
     </>
   );
