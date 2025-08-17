@@ -105,7 +105,7 @@ body {
   font-family: var(--font-noto-sans-jp);
   font-weight: var(--font-weight-normal);
   font-size: 20px;
-  line-height: 24px;
+  line-height: 28px;
 }
 
 @utility heading-md {
@@ -154,5 +154,5 @@ body {
   font-family: Helvetica, sans-serif;
   font-weight: var(--font-weight-light);
   font-size: 14px;
-  line-height: 16px;
+  line-height: 24px;
 }
