@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notoSansJP, notoSerifJP } from "@/fonts";
 import "./globals.css";
+import Footer from "@/components/footer";
 
 export const metadata: Metadata = {
   title: "京都大学大学院生命科学研究科 生体応答学分野",
@@ -17,6 +18,7 @@ export default function RootLayout({
         className={`${notoSansJP.variable} ${notoSerifJP.variable} antialiased`}
       >
         {children}
+        <Footer />
       </body>
     </html>
   );

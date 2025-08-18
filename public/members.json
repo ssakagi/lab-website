@@ -1,0 +1,22 @@
+{
+  "principal_investigator": {
+    "id": 0,
+    "name": "高原 和彦",
+    "position": "准教授",
+    "email": "ktakahar [at] zoo.zool.kyoto-u.ac.jp"
+  },
+  "staff_and_students": {
+    "administrative_staff": [{ "id": 1, "name": "林 奈緒美" }],
+    "graduate_students": [
+      { "id": 2, "name": "小山 泰生" },
+      { "id": 3, "name": "加藤 幹也" },
+      { "id": 4, "name": "中込 剣吾" },
+      { "id": 5, "name": "坂木 颯真" },
+      { "id": 6, "name": "尾幡 あずみ" }
+    ],
+    "undergraduate_students": [
+      { "id": 7, "name": "上埜 心寛" },
+      { "id": 8, "name": "Khine Zin Zin Thaw" }
+    ]
+  }
+}
