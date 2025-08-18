@@ -1,0 +1,1017 @@
+{
+  "articles": [
+    {
+      "authors": [
+        "Tanaka, S.†",
+        "Kawakita, M.†",
+        "Yasui, H.",
+        "Sudo, K.",
+        "Itoh, F.",
+        "Sasaki, M.",
+        "Shibata, N.",
+        "Hara, H.",
+        "Iwakura, Y.",
+        "Hashidate-Yoshida, T.",
+        "Shindou, H.",
+        "Shimizu, T.",
+        "Oyama, T.",
+        "Matsunaga, H.",
+        "Takahara, K."
+      ],
+      "title": "An immune-adrenergic pathway induces lethal levels of platelet-activating factor in mice.",
+      "journal": {
+        "name": "Commun. Biol."
+      },
+      "doi": "10.1038/s42003-024-06498-7",
+      "year": 2024,
+      "additional": "(†equal contribution)"
+    },
+    {
+      "authors": ["Sudo, K.", "Todoroki, T.", "Ka, Y.", "Takahara, K."],
+      "title": "Vg5Vd1 TCR signaling is required to different extents for embryonic versus postnatal development of DETCs.",
+      "journal": { "name": "Int. Immunol.", "volume": 34, "pag": "263-276" },
+      "year": 2022,
+      "additional": "(Selected as Featured article of the month/Editor's Choice, and Highlights from International Immunology in 2022)"
+    },
+
+    {
+      "authors": [
+        "Kawakita, M.",
+        "Oyama, T.",
+        "Shirai, I.",
+        "Tanaka, S.",
+        "Akaki, K.",
+        "Abe, S.",
+        "Asahi, T.",
+        "Cui, G.",
+        "Itoh, F.",
+        "Sasaki, M.",
+        "Shibata, N.",
+        "Ikuta, K.",
+        "Hatakeyama, T.",
+        "Takahara, K."
+      ],
+      "title": "Cell wall N-glycan of Candida albicans ameliorates early hyper- and late hypo-immunoreactivity in sepsis.",
+      "journal": { "name": "Commun. Biol." },
+      "doi": "10.1038/s42003-021-01870-3",
+      "year": 2021
+    },
+
+    {
+      "authors": [
+        "Cui, G.",
+        "Shimba, A.",
+        "Ma, G",
+        "Takahara, K.",
+        "Tani-ichi, S.",
+        "Zhu, Y.",
+        "Asahi, T.",
+        "Abe, A.",
+        "Miyachi, H.",
+        "Kitano, S.",
+        "Hara, T.",
+        "Yasunaga, J.",
+        "Suwanai, H.",
+        "Yamada, H.",
+        "Matsuoka, M.",
+        "Ueki, K.",
+        "Yoshikai, Y.",
+        "Ikuta, K."
+      ],
+      "title": "IL-7R-dependent Phosphatidylinositol-3 Kinase Competes with STAT5 Signal to Modulate T Cell Development and Homeostasis.",
+      "journal": { "name": "J. Immunol.", "volume": 204, "pag": "844-57" },
+      "year": 2020
+    },
+
+    {
+      "authors": ["Goji, T.", "Takahara, K.", "Negishi, M.", "Katoh, H."],
+      "title": "Glucose metabolism in glioblastoma cells protects against cell death triggered by cystine uptake through xCT. J.",
+      "journal": {
+        "name": "Biol. Chem.",
+        "volume": 292,
+        "pag": "19721-19732"
+      },
+      "year": 2017
+    },
+
+    {
+      "authors": [
+        "Ishiguro, T.†",
+        "Fukawa, T.†",
+        "Akaki, K.",
+        "Nagaoka, K.",
+        "Takeda, T.",
+        "Iwakura, Y.",
+        "Inaba, K.",
+        "Takahara, K."
+      ],
+      "title": "Absence of DCIR1 reduces the mortality rate of endotoxemic hepatitis in mice.",
+      "journal": {
+        "name": "Eur. J. Immunol.",
+        "volume": 47,
+        "pag": "704-12"
+      },
+      "year": 2017,
+      "additional": "(†equal contribution)"
+    },
+
+    {
+      "authors": [
+        "Tokieda, S.",
+        "Komori, M.",
+        "Ishiguro",
+        "Iwakura, Y.",
+        "Takahara, K.*",
+        "Inaba, K."
+      ],
+      "title": "Dendritic cell immunoreceptor 1 alters neutrophil responses in the development of experimental colitis.",
+      "journal": { "name": "BMC Immunol.", "volume": 16, "pag": "64" },
+      "year": 2015,
+      "additional": "(*corresponding author)"
+    },
+    {
+      "authors": [
+        "Ushida, M.",
+        "Iyoda, T.",
+        "Kanamori, M.",
+        "Watarai, H.",
+        "Takahara, K.*",
+        "Inaba, K."
+      ],
+      "title": "In vivo and in vitro analyses of α-galactosylceramide uptake by conventional dendritic cell subsets using its fluorescence-labeled derivative.",
+      "journal": { "name": "Immunol. Lett.", "volume": 168, "pag": "300-5" },
+      "year": 2015,
+      "additional": "(*corresponding author)"
+    },
+
+    {
+      "authors": [
+        "Taneo, J.",
+        "Adachi, T",
+        "Yoshida, A.",
+        "Takeyasu, K.",
+        "Takahara, K.*",
+        "Inaba, K."
+      ],
+      "title": "Amyloid β oligomers induce interleukin-1β production in primary microglia in a cathepsin B- and reactive oxygen species-dependent manner.",
+      "journal": {
+        "name": "Biochem. Biophys. Res. Commun.",
+        "volume": 458,
+        "pag": "561-7"
+      },
+      "year": 2015,
+      "additional": "(*corresponding author)"
+    },
+
+    {
+      "authors": [
+        "Adachi, T.",
+        "Takahara, K.",
+        "Taneo, J.",
+        "Uchiyama, Y.",
+        "Inaba, K."
+      ],
+      "title": "Particle size of latex beads dictates IL-1β production mechanism.",
+      "journal": { "name": "Plos One", "volume": 8, "pag": "e68499" },
+      "year": 2013
+    },
+
+    {
+      "authors": [
+        "Minamino, K.",
+        "Takahara, K.",
+        "Adachi, T.",
+        "Nagaoka, K.",
+        "Iyoda, T.",
+        "Taki, S.",
+        "Inaba, K."
+      ],
+      "title": "IRF-2 regulates B cell proliferation and antibody production through distinct mechanisms.",
+      "journal": { "name": "Int. Immunol.", "volume": 24, "pag": "573-81" },
+      "year": 2012
+    },
+
+    {
+      "authors": [
+        "Takahara, K.",
+        "Arita, T.",
+        "Tokieda, S.",
+        "Shibata, N.",
+        "Okawa, Y.",
+        "Tateno, H.",
+        "Hirabayashi, J.",
+        "Inaba, K."
+      ],
+      "title": "Difference in fine specificity to polysaccharides of C. albicans mannoprotein between mouse SIGNR1 and human DC-SIGN.",
+      "journal": { "name": "Infect. Immun.", "volume": 89, "pag": "1699-1706" },
+      "year": 2012
+    },
+
+    {
+      "authors": ["Takahara, K.", "Tokieda, S.", "Nagaoka, K.", "Inaba, K."],
+      "title": "Efficient capture of C. albicans and zymosan by SIGNR1 facilitates TLR2-dependent TNF-α production by macrophages.",
+      "journal": { "name": "Int. Immunol.", "volume": 24, "pag": "89-96" },
+      "year": 2012
+    },
+
+    {
+      "authors": [
+        "Kobayashi, C.",
+        "Shiina, T.",
+        "Tokioka, A.",
+        "Hattori, Y.",
+        "Komori, T.",
+        "Kobayashi-Miura, M.",
+        "Takizawa, T.",
+        "Takahara, K.",
+        "Inaba, K.",
+        "Inoko, H.",
+        "Takeya, M.",
+        "Dranoff, G.",
+        "Sugita, M."
+      ],
+      "title": "GM-CSF-independent CD1a expression in epidermal Langerhans cells: evidence from human CD1A genome-transgenic mice.",
+      "journal": {
+        "name": "J. Invest. Dermatol.",
+        "volume": 132,
+        "pag": "241-244"
+      },
+      "year": 2012
+    },
+
+    {
+      "authors": [
+        "Takahara, K.",
+        "Tokieda, S.",
+        "Nagaoka, K.",
+        "Takeda, T.",
+        "Kimura, Y.",
+        "Inaba, K."
+      ],
+      "title": "C-type lectin SIGNR1 enhances cellular oxidative burst response against C. albicans in cooperation with Dectin-1.",
+      "journal": { "name": "Eur. J. Immunol.", "volume": 41, "pag": "1435-44" },
+      "year": 2011
+    },
+
+    {
+      "authors": [
+        "Nagaoka, K.",
+        "Takahara, K.",
+        "Minamino, K.",
+        "Takeda, T.",
+        "Yoshida, Y.",
+        "Inaba, K."
+      ],
+      "title": "Expression of C-type lectin, SIGNR3, on subsets of dendritic cells, macrophages and monocytes.",
+      "journal": { "name": "J. Leukoc. Biol.", "volume": 88, "pag": "913-924" },
+      "year": 2010
+    },
+    {
+      "authors": [
+        "Shin, D. M.",
+        "Yang, C. S.",
+        "Yuk. J. M.",
+        "Lee, J. Y.",
+        "Kim, K. H.",
+        "Shin, S. J.",
+        "Takahara, K.",
+        "Lee, S.J.",
+        "Jo, E. K."
+      ],
+      "title": "Mycobacterium abscessus activates the macrophage innate immune response via a physical and functional interaction between TLR2 and dectin-1.",
+      "journal": {
+        "name": "Cell. Microbiol.",
+        "volume": 10,
+        "pag": "1608-1621"
+      },
+      "year": 2008
+    },
+
+    {
+      "authors": [
+        "Nagaoka, K.†",
+        "Takahara, K.†",
+        "Tanaka, K.",
+        "Yoshida, H.",
+        "Steinman, R. M.",
+        "Saitoh, S.",
+        "Akashi-Takamura, S.",
+        "Miyake, K.",
+        "Kang, Y. S.",
+        "Park, C. G.",
+        "Inaba, K."
+      ],
+      "title": "Association of SIGNR1 with TLR4/MD-2 enhances signal transduction by recognition of LPS in Gram-negative bacteria.",
+      "journal": { "name": "Int. Immunol.", "volume": 17, "pag": "827-836" },
+      "year": 2005,
+      "additional": "(†equal contribution)"
+    },
+
+    {
+      "authors": [
+        "Takahara, K.†",
+        "Yashima, Y.†",
+        "Yoshida, H",
+        "Kimura, Y.",
+        "Kang, Y.-S.",
+        "Steinman, R. M.",
+        "Park, C. G.",
+        "Inaba, K."
+      ],
+      "title": "Functional comparison of the mouse DC-SIGN, SIGNR1, SIGNR3 and Langerin, C-type lectins.",
+      "journal": { "name": "Int. Immunol.", "volume": 16, "pag": "819-829" },
+      "year": 2004,
+      "additional": "(†equal contribution)"
+    },
+
+    {
+      "authors": [
+        "Ichikawa, E.",
+        "Hida, S.",
+        "Omatsu, Y.",
+        "Shimoyama, S.",
+        "Takahara, K.",
+        "Miyagawa. S.",
+        "Inaba, K.",
+        "Taki, S."
+      ],
+      "title": "Defective development of splenic and epidermal CD4+ dendritic cells in mice deficient for IFN regulatory factor-2.",
+      "journal": {
+        "name": "Proc. Natl. Acad. Sci. U.S.A.",
+        "volume": 101,
+        "pag": "3909-3914"
+      },
+      "year": 2004
+    },
+
+    {
+      "authors": [
+        "Wang, W. -M.",
+        "Lee, S.",
+        "Steiglitz, B. M.",
+        "Scott, I. C.",
+        "Lebares, C.C.",
+        "Allen, L",
+        "Brenner, M. C.",
+        "Takahara, K.",
+        "Greenspan, D. S."
+      ],
+      "title": "Transforming growth factor-β induces secretion of activated ADAMTS-2: A procollagen III N-proteinase.",
+      "journal": {
+        "name": "J. Biol. Chem.",
+        "volume": 278,
+        "pag": "19549-19557"
+      },
+      "year": 2003
+    },
+    {
+      "authors": [
+        "Kang, Y.-S.†",
+        "Yamazaki, S.†",
+        "Iyoda, T.†",
+        "Pack, M.",
+        "Bruening, S. A.",
+        "Kim, J. Y.",
+        "Takahara, K.",
+        "Inaba, K.",
+        "Steinman, R. M.",
+        "Park, C. G."
+      ],
+      "title": "SIGN-R1, a novel C-type lectin expressed by marginal zone macrophages in spleen, mediates uptake of the polysaccharide dextran.",
+      "journal": { "name": "Int. Immunol.", "volume": 15, "pag": "177-186" },
+      "year": 2003,
+      "additional": "(†equal contribution)"
+    },
+
+    {
+      "authors": [
+        "Ichioka, N.",
+        "Inaba, M.",
+        "Kushida, T.",
+        "Esumi, T.",
+        "Takahara, K.",
+        "Inaba., K.",
+        "Ogawa, R.",
+        "Iida, H.",
+        "Ikehara, S."
+      ],
+      "title": "Prevention of senile osteoporosis in SAMP6 mice by intra-bone marrow injection of allogeneic bone marrow cells.",
+      "journal": { "name": "Stem Cells", "volume": 20, "pag": "542-551" },
+      "year": 2002
+    },
+
+    {
+      "authors": [
+        "Takahara, K.†",
+        "Schwarze, U.†",
+        "Imamura, Y.",
+        "Hoffman, G. G.",
+        "Toriello, H.",
+        "Smith, L. T.",
+        "Byers, P. H.",
+        "Greenspan, D. S."
+      ],
+      "title": "Order of intron removal influences multiple splice outcomes, including a two-exon skip, in a COL5A1 acceptor site mutation that results in abnormal pro-α1(V) N-propeptides and Ehlers-Danlos syndrome type I.",
+      "journal": {
+        "name": "Amer. J. Human Genetics",
+        "volume": 71,
+        "pag": "451-465"
+      },
+      "year": 2002,
+      "additional": "(†equal contribution)"
+    },
+
+    {
+      "authors": [
+        "Iyoda, T.",
+        "Shimoyama, S.",
+        "Liu, K.",
+        "Omatsu, Y.",
+        "Akiyama, Y.",
+        "Maeda, Y.",
+        "Takahara, K.",
+        "Steinman,R. M.",
+        "Inaba. K."
+      ],
+      "title": "The CD8+ dendritic cell subset selectively endocytoses dying cells in culture and in vivo.",
+      "journal": { "name": "J. Exp. Med.", "volume": 195, "pag": "1289-1302" },
+      "year": 2002
+    },
+
+    {
+      "authors": [
+        "Ligon, A. H.",
+        "Scott, I. C.",
+        "Takahara, K.",
+        "Greenspan, D. S.",
+        "Morton, C. C."
+      ],
+      "title": "PCOLCE deletion and expression analysis in uterine leiomyomata.",
+      "journal": {
+        "name": "Cancer Genet. Cytogenet.",
+        "volume": 137,
+        "pag": "133-137"
+      },
+      "year": 2002
+    },
+    {
+      "authors": [
+        "Takahara, K.",
+        "Omatsu, Y.",
+        "Yashima, Y.",
+        "Yasuhiro, M.",
+        "Tanaka, S.",
+        "Iyoda, T.",
+        "Clausen, B.",
+        "Matsubara, K.",
+        "Letterio, J.",
+        "Steinman, R. M.",
+        "Matsuda, Y.",
+        "Inaba, K."
+      ],
+      "title": "Identification and expression of mouse Langerin (CD207) in dendritic cells.",
+      "journal": {
+        "name": "Int. Immunol.",
+        "volume": 14,
+        "pag": "433-444"
+      },
+      "year": 2002
+    },
+
+    {
+      "authors": [
+        "•Park, C. G.†",
+        "Takahara, K.†",
+        "Umemoto, E.",
+        "Yashima, Y.",
+        "Matsubara, K.",
+        "Matsuda, Y.",
+        "Clausen, B. E.",
+        "Inaba, K.",
+        "Steinman, R. M."
+      ],
+      "title": "Five mouse homologues of the human dendritic cell C-type lectin, DC-SIGN.",
+      "journal": { "name": "Int. Immunol.", "volume": 13, "pag": "1283-1290" },
+      "year": 2001,
+      "additional": "(†equal contribution)"
+    },
+    {
+      "authors": [
+        "Komuro, H.",
+        "Mori, M.",
+        "Hayashi, Y.",
+        "Fukagawa, M.",
+        "Makino, S.",
+        "Takahara, K.",
+        "Greenspan, D. S.",
+        "Momoi, M."
+      ],
+      "title": "Lack of BMP-1 gene mutations in patient with gastroschisis.",
+      "journal": {
+        "name": " J. Pediatric Surgery",
+        "volume": 36,
+        "pag": "885-887"
+      },
+      "year": 2001
+    },
+
+    {
+      "authors": [
+        "Amano, S.",
+        "Scott , I. C.",
+        "Takahara, K.",
+        "Koch, M.",
+        "Gerecke, D. R.",
+        "Keene, D. R.",
+        "Hudson, D. L.",
+        "Nishiyama, T.",
+        "Lee, S.",
+        "Greenspan, D. S.",
+        "Burgeson R. E."
+      ],
+      "title": "Bone morphogenetic protein 1 (BMP-1) is an extracellular processing enzyme of the laminin 5γ2 chain.",
+      "journal": {
+        "name": "J. Biol. Chem.",
+        "volume": 275,
+        "pag": "22728-22735"
+      },
+      "year": 2000
+    },
+    {
+      "authors": [
+        "Mott, J. D.",
+        "Thomas, C. L.",
+        "Rosenbach, M. T.",
+        "Takahara, K.",
+        "Greenspan, D. S.",
+        "Banda, M. J."
+      ],
+      "title": "Post-translational proteolytic processing of procollagen C-terminal proteinase enhancer release a metalloproteinase inhibitor.",
+      "journal": {
+        "name": "J. Biol. Chem.",
+        "volume": 275,
+        "pag": "1384-1390"
+      },
+      "year": 2000
+    },
+    {
+      "authors": [
+        "Scott, I. C.",
+        "Blitz, I. L.",
+        "Pappano, W. N.",
+        "Imamura, Y.",
+        "Clark, T. G.",
+        "Steiglitz B. M.",
+        "Thomas, C. L.",
+        "Maas, S. A.",
+        "Takahara, K.",
+        "Cho, K. W. Y.",
+        "Greenspan D. S."
+      ],
+      "title": "Mammalian BMP-1/Tolloid-related metalloproteinases, including novel family member mammalian Tolloid-like 2, have differential enzymatic activities and distribution of expression relevant to patterning and skeletogenesis.",
+      "journal": {
+        "name": "Dev. Biol.",
+        "volume": 213,
+        "pag": "283-300"
+      },
+      "year": 1999
+    },
+    {
+      "authors": [
+        "Scott, I. C.",
+        "Clark, T. G.",
+        "Takahara, K.",
+        "Hoffman, G. G.",
+        "Eddy, R.L.",
+        "Haley, L. L.",
+        "Shows, T. B.",
+        "Greenspan, D. S."
+      ],
+      "title": "Assignment of TLL1 and TLL2, which encode human BMP-1/Tolloid-related metalloproteases, to chromosomes 4q32-q33 and 10q23-24 and assignment of murine Tll2 to chromosome 19.",
+      "journal": {
+        "name": "Cytogenet. Cell Genet.",
+        "volume": 86,
+        "pag": "64-65"
+      },
+      "year": 1999
+    },
+    {
+      "authors": [
+        "Scott, I. C.",
+        "Clark, T. G.",
+        "Takahara, K.",
+        "Hoffman, G. G.",
+        "Greenspan, D. S."
+      ],
+      "title": "Structural organization and expression patterns of the human and mouse genes for the type I procollagen COOH-terminal proteinase enhancer protein.",
+      "journal": {
+        "name": "Genomics",
+        "volume": 55,
+        "pag": "229-234"
+      },
+      "year": 1999
+    },
+
+    {
+      "authors": [
+        "Lee, S.",
+        "Solow-Cordero",
+        "Kessler, E.",
+        "Takahara, K.",
+        "Greenspan, D. S."
+      ],
+      "title": "Transforming growth factor-β regulation of bone morphogenetic protein-1/procollagen C-proteinase and related proteins in fibrogenic cells and keratinocytes.",
+      "journal": {
+        "name": "J. Biol. Chem.",
+        "volume": 272,
+        "pag": "19059-19066"
+      },
+      "year": 1997
+    },
+    {
+      "authors": [
+        "Suzuki, N.",
+        "Labosky, P. A.",
+        "Furuta, Y.",
+        "Hargett, L.",
+        "Dunn, R.",
+        "Fogo, A. B.",
+        "Takahara, K.",
+        "Peters, D. M. P.",
+        "Greenspan, D. S.",
+        "Hogan, B. L. M."
+      ],
+      "title": "Failure of ventral body wall closure in mouse embryos lacking a procollagen C-proteinase encoded by bmp1. A mammalian gene related to drosophila tolloid.",
+      "journal": { "name": "Development", "volume": 122, "pag": "3587-3595" },
+      "year": 1996
+    },
+    {
+      "authors": [
+        "Toriello, H. V.",
+        "Glover, T.W.",
+        "Takahara, K.",
+        "Byers, P. H.",
+        "Miller, D. E.",
+        "Higgins, J. V.",
+        "Glover, T. W.",
+        "Greenspan, D. S."
+      ],
+      "title": "A translocation interrupts the COL5A1 gene in a patient with Ehlers-Danlos syndrome and hypomelanosis of Ito.",
+      "journal": { "name": "Nature Genet.", "volume": 13, "pag": "361-365" },
+      "year": 1996
+    },
+    {
+      "authors": [
+        "Kessler, E.",
+        "Takahara, K.",
+        "Biniaminov, L.",
+        "Brusel, M.",
+        "Greenspan, D.S."
+      ],
+      "title": "Bone morphogenetic protein-1: type I procollagen C-proteinase.",
+      "journal": { "name": "Science", "volume": 271, "pag": "360-362" },
+      "year": 1996
+    },
+    {
+      "authors": [
+        "Takahara, K.",
+        "Brevard, R.",
+        "Hoffman, G.G.",
+        "Suzuki, N.",
+        "Greenspan, D. S."
+      ],
+      "title": "Characterization of a novel gene product (mammalian tolloid-like) with a high degree of sequence similarity to mammalian tolloid/bone morphogenetic protein-1.",
+      "journal": { "name": "Genomics", "volume": 34, "pag": "157-165" },
+      "year": 1996
+    },
+    {
+      "authors": [
+        "Takahara, K.†",
+        "Osborne, L.†",
+        "Elliot, R.W.",
+        "Tsui, L-C.",
+        "Sherer, S.W.",
+        "Greenspan, D.S."
+      ],
+      "title": "Fine mapping of the human and mouse genes for the type I procollagen COOH-terminal proteinase enhancer protein.",
+      "journal": { "name": "Genomics", "volume": 31, "pag": "253-256" },
+      "year": 1996,
+      "additional": "(†equal contribution)"
+    },
+    {
+      "authors": [
+        "Takahara, K.",
+        "Bong, M.",
+        "Brevard, R.",
+        "Eddy, R.L.",
+        "Haley, L.L.",
+        "Jani-Sait, S.",
+        "Shows, T.B.",
+        "Hoffman, G.G.",
+        "Greenspan, D.S."
+      ],
+      "title": "Mouse and human homologues of the yeast origin of replication recognition complex subunit ORC2 and chromosomal localization of the cognate human gene ORC2L.",
+      "journal": { "name": "Genomics", "volume": 31, "pag": "119-122" },
+      "year": 1996
+    },
+    {
+      "authors": ["Takahara, K.", "Hoffman, G. G.", "Greenspan, D. S."],
+      "title": "Complete structural organization of the human α1(V) collagen Gene (COL5A1): divergence from the conserved organization of other characterized fibrillar collagen gene.",
+      "journal": { "name": "Genomics", "volume": 29, "pag": "588-597" },
+      "year": 1995
+    },
+    {
+      "authors": ["Takahara, K.", "Lee, S.", "Wood, S.", "Greenspan, D.S."],
+      "title": "Structural organization and localization of the human bone morphogenetic protein/mammalian tolloid gene.",
+      "journal": { "name": "Genomics", "volume": 29, "pag": "9-15" },
+      "year": 1995
+    },
+    {
+      "authors": ["Takahara, K.", "Lyons, G. E.", "Greenspan, D. S."],
+      "title": "Bone morphogenetic protein-1 and mammalian tolloid homologue (mTld) are encoded by alternatively spliced transcripts which are differentially expressed in some tissues.",
+      "journal": {
+        "name": "J. Biol. Chem.",
+        "volume": 269,
+        "pag": "32572-32578"
+      },
+      "year": 1994
+    },
+    {
+      "authors": [
+        "Takahara, K.",
+        "Kessler, E.",
+        "Biniaminov, L.",
+        "Brusel, M.",
+        "Eddy, R. E.",
+        "Jani-Saito, S.",
+        "Shows, T.B.",
+        "Greenspan, D. S."
+      ],
+      "title": "Type I procollagen C-protenase enhancer protein: identification, primary structure and chromosomal localization of the cognate human gene (PCOLCE).",
+      "journal": {
+        "name": "J. Biol. Chem.",
+        "volume": 269,
+        "pag": "26280-26285"
+      },
+      "year": 1994
+    },
+    {
+      "authors": [
+        "Takahara, K.",
+        "Hayashi, N.",
+        "Fujita-Sagawa, K.",
+        "Morishita, T.",
+        "Hashimoto, Y.",
+        "Noda, A."
+      ],
+      "title": "Alternative splicing of bovine terminal deoxynucleotidyl transferase cDNA.",
+      "journal": {
+        "name": "Biosci. Biotech. Biochem.",
+        "volume": 58,
+        "pag": "786-787"
+      },
+      "year": 1994
+    },
+    {
+      "authors": [
+        "Hatai, M.",
+        "Takahara, K.",
+        "Hashi, H.",
+        "Kato, I.",
+        "Yaoi, Y."
+      ],
+      "title": "Effects of fibronectin-type V collagen recombinant fusion protein on cell adhesion and cell proliferation.",
+      "journal": {
+        "name": "Cell Struct. Funct.",
+        "volume": 17,
+        "pag": "293-300"
+      },
+      "year": 1992
+    },
+    {
+      "authors": [
+        "Nakamura, N.",
+        "Sugino, H.",
+        "Takahara, K.",
+        "Jin, C.",
+        "Matsubara, K."
+      ],
+      "title": "Endogenous retroviral LTR DNA sequences as markers for individual human chromosomes.",
+      "journal": {
+        "name": "Cytogenet. Cell Genet.",
+        "volume": 57,
+        "pag": "18-22"
+      },
+      "year": 1991
+    },
+    {
+      "authors": [
+        "Takahara, K.",
+        "Sato, Y.",
+        "Okazawa, K.",
+        "Okamoto, N.",
+        "Noda, A.",
+        "Yaoi, Y.",
+        "Kato, I."
+      ],
+      "title": "Complete primary structure of human collagen α1(V) chain.",
+      "journal": {
+        "name": "J. Biol. Chem.",
+        "volume": 266,
+        "pag": "13124-13129"
+      },
+      "year": 1991
+    },
+    {
+      "authors": ["Yaoi, Y.", "Hashimoto, K.", "Takahara, K.", "Kato, I."],
+      "title": "Insulin binds to type V collagen with retention of mitogenic activity.",
+      "journal": { "name": "Exp. Cell Res.", "volume": 194, "pag": "180-185" },
+      "year": 1991
+    },
+    {
+      "authors": [
+        "Shiosaki, K.",
+        "Miyatsu, Y.",
+        "Takahara, K.",
+        "Mizokami, H.",
+        "Hamada, F.",
+        "Matsubara, K."
+      ],
+      "title": "A yeast system for stable expression of hepatitis B surface antigen.",
+      "journal": { "name": "J. Biotechnol.", "volume": 14, "pag": "411-422" },
+      "year": 1990
+    },
+    {
+      "authors": [
+        "Yaoi, Y.",
+        "Hashimoto, K.",
+        "Koitabashi, H.",
+        "Takahara, K.",
+        "Ito, M.",
+        "Kato, I."
+      ],
+      "title": "Primary structure of the heparin-binding site of type V collagen.",
+      "journal": {
+        "name": "Biochim. Biophys. Acta",
+        "volume": 1035,
+        "pag": "139-145"
+      },
+      "year": 1990
+    },
+    {
+      "authors": [
+        "Takahara, K.",
+        "Fukushige, S.",
+        "Murotsu, T.",
+        "Ichihara, Y.",
+        "Hayano, T.",
+        "Ishihara, T.",
+        "Takahashi, K.",
+        "Matsubara, K."
+      ],
+      "title": "Assignment of human pepsinogen C (PGC) gene to chromosome 6.",
+      "journal": {
+        "name": "Cytogenet. Cell Genet.",
+        "volume": 52,
+        "pag": "100-101"
+      },
+      "year": 1989
+    }
+  ],
+
+  "reviews": [
+    {
+      "authors": ["高原 和彦"],
+      "title": "C-型レクチンによる生体応答制御 -恒常性の維持と応用—",
+      "journal": {
+        "name": "臨床免疫・アレルギー科",
+        "volume": 66,
+        "pag": "115-121"
+      },
+      "year": 2016
+    },
+    {
+      "authors": ["足立 匠", "高原 和彦", "稲葉 カヨ"],
+      "title": "微細粒子物質による炎症惹起",
+      "journal": {
+        "name": "臨床免疫・アレルギー科",
+        "volume": 60,
+        "pag": "589-595"
+      },
+      "year": 2013
+    },
+    {
+      "authors": ["高原 和彦", "石黒 俊史"],
+      "title": "C-型レクチンDC-SIGNを介したIL-10産生と免疫制御",
+      "journal": {
+        "name": "臨床免疫・アレルギー科",
+        "volume": 60,
+        "pag": "603-610"
+      },
+      "year": 2013
+    },
+    {
+      "title": "樹状細胞に発現するCタイプレクチンDCIR（Dendritic cell immunoreceptor）の機能と生体における働き",
+      "journal": {
+        "name": "臨床免疫・アレルギー科",
+        "volume": 52,
+        "pag": "11-18"
+      },
+      "year": 2009
+    },
+
+    {
+      "authors": ["高原 和彦", "長岡 孝治", "稲葉 カヨ"],
+      "title": "樹状細胞に発現するC型レクチンの機能とシグナル伝達",
+      "journal": { "name": "実験医学", "volume": 26, "pag": "3187-3196" },
+      "year": 2008
+    },
+
+    {
+      "authors": ["長岡 孝治", "武田 達樹", "高原 和彦"],
+      "title": "マウスC型レクチンSIGNR1とその免疫応答における役割",
+      "journal": { "name": "臨床免疫", "volume": 45, "pag": "259-265" },
+      "year": 2006
+    },
+
+    {
+      "authors": ["高原 和彦", "長岡 孝治", "吉田 英雄"],
+      "title": "樹状細胞上のC-タイプレクチン群とそのリガンド",
+      "journal": { "name": "臨床免疫", "volume": 43, "pag": "189-196" },
+      "year": 2005
+    },
+
+    {
+      "authors": ["高原 和彦"],
+      "title": "樹状細胞におけるパターン認識レセプターとしてのレクチン",
+      "journal": { "name": "臨床免疫", "volume": 40, "pag": "117-125" },
+      "year": 2003
+    },
+    {
+      "authors": ["高原 和彦", "稲葉 カヨ"],
+      "title": "樹状細胞による免役寛容の誘導と維持",
+      "journal": { "name": "細胞工学", "volume": 21, "pag": "1294-1297" },
+      "year": 2002
+    },
+
+    {
+      "authors": ["高原 和彦", "稲葉 カヨ"],
+      "title": "樹状細胞の抗原プロセッシングと腫瘍免疫",
+      "journal": { "name": "医学のあゆみ", "volume": 194, "pag": "1216-1221" },
+      "year": 2000
+    },
+
+    {
+      "authors": ["高原 和彦", "玉城 征郎", "稲葉 カヨ"],
+      "title": "樹状細胞による抗原ペプチドの提示とその腫瘍免疫への応用",
+      "journal": { "name": "現代医療", "volume": 32, "pag": "1139-1145" },
+      "year": 2000
+    },
+    {
+      "authors": ["高原 和彦", "玉城 征郎", "稲葉 カヨ"],
+      "title": "抗腫瘍免疫療法における樹状細胞",
+      "journal": { "name": "最新医学", "volume": 54, "pag": "240-247" },
+      "year": 1999
+    },
+    {
+      "authors": ["高原 和彦", "稲葉 カヨ"],
+      "title": "生体防御における樹状細胞の役割と応用",
+      "journal": {
+        "name": "バイオサイエンスとインダストリー",
+        "volume": 56,
+        "pag": "450-455"
+      },
+      "year": 1998
+    },
+    {
+      "authors": ["高原 和彦"],
+      "title": "BMP-1とI型プロコラーゲンC-プロテイナーゼ",
+      "journal": { "name": "実験医学", "volume": 14, "pag": "1872-1875" },
+      "year": 1996
+    },
+    {
+      "authors": [
+        "福重 真一",
+        "中村 紀彦",
+        "高原 和彦",
+        "吉村 俊一",
+        "室津 知明"
+      ],
+      "title": "ヒト染色体のソーティング",
+      "journal": { "name": "細胞工学", "volume": 7, "pag": "896-903" },
+      "year": 1988
+    }
+  ],
+
+  "patents": [
+    "特開平02-209899 インスリン結合活性を有するポリペプチド",
+    "特開平04-054199 機能性ポリペプチド",
+    "特開平04-074200 機能性ポリペプチド",
+    "特開平05-097698 機能性ポリペプチド",
+    "特開平06-105687 ヒトコラーゲンＶ型遺伝子",
+    "特開平07-039378 逆転写酵素遺伝子",
+    "特開平11-092396 インスリン結合阻害剤",
+    "特開平11-092404 インスリン結合用担体",
+    "US Issued Patent No. 5939321 Mammalian Tolloid-Like Gene and Protein."
+  ]
+}

@@ -1,11 +1,12 @@
 type PublicationItemProps = {
-  authors: string[]; // なるべくjsonをシンプルにしたいので単に文字列の配列とし下線や特殊文字はパターンマッチで処理する
+  authors?: string[]; // なるべくjsonをシンプルにしたいので単に文字列の配列とし下線や特殊文字はパターンマッチで処理する
   title: string;
   journal: {
     name: string;
     volume?: number;
     issue?: number;
-    pag?: string;
+    pag?: string; // Memo: PLOS Oneのような物理的なページが存在しない電子ジャーナルの識別番号にも流用することを約束(ほぼdoiだが
+    // フォーマット的にこちらに割り振った方が都合が良いし電子ジャーナルでは実質的にページ番号の代わりに使われている節があるので意味的にも問題なさそう)
   };
   doi?: string;
   year: number;
@@ -24,7 +25,7 @@ export default function PublicationItem({
 }: PublicationItemProps) {
   return (
     <div className="py-[20px] border-separator-secondary border-b-[1px] text-label-secondary text-[16px] leading-[24px]">
-      {
+      {authors && // 1点だけ著者情報がない総説があったのでオプションに...
         // 似たような処理が何箇所か出てくるが微妙に要請が違って面倒なので共通化はしない
         authors.map((author, i) => (
           // とりあえずkeyには著者名をそのまま当てる(1つの論文で記載として著者名が重複することはないから事足りはする)
@@ -72,8 +73,7 @@ export default function PublicationItem({
               );
             })()}
           </span>
-        ))
-      }
+        ))}
       {title + (title.endsWith(".") ? " " : ". ")}
       <em className="font-bold">
         {journal.name + (journal.name.endsWith(".") ? "" : ".")}
