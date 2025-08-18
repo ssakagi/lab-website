@@ -26,47 +26,53 @@ export default function PublicationItem({
     <div className="py-[20px] border-separator-secondary border-b-[1px] text-label-secondary text-[16px] leading-[24px]">
       {
         // 似たような処理が何箇所か出てくるが微妙に要請が違って面倒なので共通化はしない
-        authors.map((author, i) => {
-          const match = author.match(/([†*‡]+)$/);
+        authors.map((author, i) => (
+          // とりあえずkeyには著者名をそのまま当てる(1つの論文で記載として著者名が重複することはないから事足りはする)
+          <span key={author}>
+            {(() => {
+              // ReactではmapでJSXを返す際にkeyを付与することが要求されるので今回みたいにreturnが複雑なパターンは即時関数にして全体を適当なタグでラップしてしまう
+              const match = author.match(/([†*‡]+)$/);
 
-          if (match) {
-            const name = author.slice(0, -match[0].length);
-            const symbols = match[0];
-            return (
-              <>
-                {piName.includes(name.replace(/\s+/g, "")) ? (
-                  <strong className="underline">{name}</strong>
-                ) : (
-                  name
-                )}
-                <sup>{symbols}</sup>
-                {i !== authors.length - 1
-                  ? ", "
-                  : name.endsWith(".")
-                  ? " "
-                  : ". "}
-              </>
-            );
-          }
+              if (match) {
+                const name = author.slice(0, -match[0].length);
+                const symbols = match[0];
+                return (
+                  <>
+                    {piName.includes(name.replace(/\s+/g, "")) ? (
+                      <strong className="underline">{name}</strong>
+                    ) : (
+                      name
+                    )}
+                    <sup>{symbols}</sup>
+                    {i !== authors.length - 1
+                      ? ", "
+                      : name.endsWith(".")
+                      ? " "
+                      : ". "}
+                  </>
+                );
+              }
 
-          return piName.includes(author.replace(/\s+/g, "")) ? (
-            <>
-              <strong className="underline">{author}</strong>
-              {i !== authors.length - 1
-                ? ", "
-                : author.endsWith(".")
-                ? " "
-                : ". "}
-            </>
-          ) : (
-            author +
-              (i !== authors.length - 1
-                ? ", "
-                : author.endsWith(".")
-                ? " "
-                : ". ")
-          );
-        })
+              return piName.includes(author.replace(/\s+/g, "")) ? (
+                <>
+                  <strong className="underline">{author}</strong>
+                  {i !== authors.length - 1
+                    ? ", "
+                    : author.endsWith(".")
+                    ? " "
+                    : ". "}
+                </>
+              ) : (
+                author +
+                  (i !== authors.length - 1
+                    ? ", "
+                    : author.endsWith(".")
+                    ? " "
+                    : ". ")
+              );
+            })()}
+          </span>
+        ))
       }
       {title + (title.endsWith(".") ? " " : ". ")}
       <em className="font-bold">
