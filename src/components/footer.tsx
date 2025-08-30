@@ -48,9 +48,13 @@ function Access() {
     <div className="flex gap-[60px] py-[92px]">
       <div className="flex-1">
         <div className="w-[300px] ml-auto flex flex-col gap-[40px]">
-          <h4 className="text-left py-[8px] border-separator-secondary border-b-[1px] heading-lg text-label-primary">
+          <div className="text-left py-[8px] border-separator-secondary border-b-[1px] heading-lg text-label-primary">
+            {/*
+            Memo: h4~h6タグを当てるのは見出しレベルの連続性が破綻するページが出てくる時点でNG.またh3~h6はメインコンテンツの細分化に利用したい気持ちがあるのでフッター内の見出しに当てるのは違和感...
+            メインコンテンツに並ぶセクションという意識ならh2だが正直このアドレス情報って特に必須でもないオプションみたいな感覚(というか感想)なのでdivタグで十分そうと判断してこれを採用する
+            */}
             Access
-          </h4>
+          </div>
           <div className="text-right">
             <address className="inline-flex flex-col gap-[4px] text-left text-label-secondary body-xs">
               <span>〒606-8501</span>

@@ -1,5 +1,4 @@
 import type { Preview } from "@storybook/nextjs-vite";
-import { notoSansJP, notoSerifJP } from "../src/fonts";
 import "../src/app/globals.css";
 
 const preview: Preview = {
@@ -20,9 +19,8 @@ const preview: Preview = {
   },
   decorators: [
     (Story) => (
-      <div
-        className={`${notoSansJP.variable} ${notoSerifJP.variable} antialiased`}
-      >
+      // これ無いと線幅が太るっぽい
+      <div className={"antialiased"}>
         <Story />
       </div>
     ),
